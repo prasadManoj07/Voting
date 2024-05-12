@@ -1,0 +1,11 @@
+C:\Users\z004h7zv\source\repos\Voting\Voting\obj\Debug\Voting.csproj.AssemblyReference.cache
+C:\Users\z004h7zv\source\repos\Voting\Voting\obj\Debug\Voting.csproj.CoreCompileInputs.cache
+C:\Users\z004h7zv\source\repos\Voting\Voting\bin\Debug\Voting.exe.config
+C:\Users\z004h7zv\source\repos\Voting\Voting\bin\Debug\Voting.exe
+C:\Users\z004h7zv\source\repos\Voting\Voting\bin\Debug\Voting.pdb
+C:\Users\z004h7zv\source\repos\Voting\Voting\obj\Debug\Voting.exe
+C:\Users\z004h7zv\source\repos\Voting\Voting\obj\Debug\Voting.pdb
+C:\Users\z004h7zv\source\repos\Voting\Voting\bin\Debug\Voting.exe.manifest
+C:\Users\z004h7zv\source\repos\Voting\Voting\bin\Debug\Voting.application
+C:\Users\z004h7zv\source\repos\Voting\Voting\obj\Debug\Voting.exe.manifest
+C:\Users\z004h7zv\source\repos\Voting\Voting\obj\Debug\Voting.application
